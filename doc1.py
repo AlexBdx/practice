@@ -5,4 +5,7 @@ with open("hey.json") as f:
 
 print(data)
 print(data[0])
-print("Something")
+print("Commit 1")
+print("Commit 2")
+print("Commit 3b")
+print("Commit 5")
