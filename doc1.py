@@ -5,3 +5,4 @@ with open("hey.json") as f:
 
 print(data)
 print(data[0])
+print("Something")
